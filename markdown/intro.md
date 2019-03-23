@@ -1,11 +1,11 @@
 # Title
 
-Subtitle or catchy tagline
+Getting Started with Open edX Development
 
 * * *
 
-Speaker Name | [@speaker](https://twitter.com/speaker)
+Nate Aune | [@natea](https://twitter.com/natea)
 
-Event | Date
+Open edX Conference 2019 | 3/26/2019
 
 Note: Add introductory slides here.
