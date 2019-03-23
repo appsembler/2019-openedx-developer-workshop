@@ -1,28 +1,3 @@
-<!-- uncomment this commented section if you're using Madoko to edit the markdown
-[INCLUDE=presentation]
-Title         : Getting Started with Open edX Development
-Sub Title     : Open edX Conference 2019
-Author        : Nate Aune
-Affiliation   : Appsembler
-Email         : nate@appsembler.com
-Reveal Theme  : sky
-Beamer Theme  : singapore
--->
-
-<!-- these slides were crafted using the approach outlined in this blog post: 
-http://www.markusz.io/posts/2018/03/16/revealjs-docker-markdown-slides/
-
-Using the embedding external Markdown feature of Reveal.js
-https://github.com/appsembler/2018-openedx-developer-workshop#external-markdown
-
-To render these slides as navigable HTML:
-
-$ npm install
-$ npm start   (<-- this will launch a browser and connect to localhost)
-
-If you want a printable PDF, go to http://localhost:8000?print-pdf
--->
-
 ## Housekeeping
 
 Follow along with these slides at:
