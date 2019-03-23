@@ -1,4 +1,4 @@
-# Title
+# Open edX Development Workshop
 
 Getting Started with Open edX Development
 
