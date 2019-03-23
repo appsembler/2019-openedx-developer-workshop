@@ -1,7 +1,7 @@
 <!-- uncomment this commented section if you're using Madoko to edit the markdown
 [INCLUDE=presentation]
 Title         : Getting Started with Open edX Development
-Sub Title     : Open edX Conference 2018
+Sub Title     : Open edX Conference 2019
 Author        : Nate Aune
 Affiliation   : Appsembler
 Email         : nate@appsembler.com
@@ -23,20 +23,13 @@ $ npm start   (<-- this will launch a browser and connect to localhost)
 If you want a printable PDF, go to http://localhost:8000?print-pdf
 -->
 
-## Getting Started with Open edX Development
-### Open edX Conference 2018
-### Montreal, Canada
-### May 29, 2018
-
-
-
 ## Housekeeping
 
 Follow along with these slides at:
-https://appsembler.github.io/2018-openedx-developer-workshop/
+https://appsembler.github.io/2019-openedx-developer-workshop/
 
 Make yourself a printable PDF version:
-https://appsembler.github.io/2018-openedx-developer-workshop?print-pdf
+https://appsembler.github.io/2019-openedx-developer-workshop?print-pdf
 
 *Please* complete the short survey at the end of the workshop.
 
@@ -47,9 +40,8 @@ https://appsembler.github.io/2018-openedx-developer-workshop?print-pdf
 Your esteemed workshop facilitators! 
 
 - Nate Aune (nate@appsembler.com)
-- Omar Al-Ithawi (omar@appsembler.com)
-- Nimisha Asthagiri (nasthagiri@edx.org)
-- Robert Raposa (rraposa@edx.org)
+- John Baldwin (john@appsembler.com)
+- Bryan Wilson (bryan@appsembler.com)
 
 We will be on hand to help you if you get stuck or have questions.
 
